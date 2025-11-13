@@ -30,9 +30,9 @@ export default function Details() {
 
   }, [like])
 
+  //main
   const [my, setmy] = useState([])
   useEffect(() => {
-    // if (!data?.artist
     setloading(true)
     const datass = fetch(`https://assignment-10-server-eta-eight.vercel.app/posts/single?email=${data?.artistemail}`).then(res => res.json())
       .then(ans => {
