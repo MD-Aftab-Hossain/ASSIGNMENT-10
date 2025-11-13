@@ -30,7 +30,7 @@ export default function Details() {
 
   }, [like])
 
-  //main
+  //main of the file
   const [my, setmy] = useState([])
   useEffect(() => {
     setloading(true)
