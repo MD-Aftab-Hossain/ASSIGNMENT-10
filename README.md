@@ -81,7 +81,7 @@ The platform maintains a clean UI, smooth UX, and efficient CRUD operations usin
 
 ## 📦 **Dependencies Used**
 
-\`\`\`json
+```json
 "dependencies": {
   "@tailwindcss/vite": "^4.1.17",
   "firebase": "^12.5.0",
@@ -96,7 +96,7 @@ The platform maintains a clean UI, smooth UX, and efficient CRUD operations usin
   "swiper": "^12.0.3",
   "tailwindcss": "^4.1.17"
 }
-\`\`\`
+```
 
 ---
 
@@ -104,18 +104,14 @@ The platform maintains a clean UI, smooth UX, and efficient CRUD operations usin
 
 Follow the steps below to run the project on your local machine.
 
-### **1️⃣ Clone the repository**
-\`\`\`bash
+### **Clone the repo and install dependencies:**
+```bash
 git clone https://github.com/MD-Aftab-Hossain/ASSIGNMENT-10.git
-cd ASSIGNMENT-10
-\`\`\`
-
-### **2️⃣ Install dependencies**
-\`\`\`bash
+cd artify
 npm install
-\`\`\`
+```
 
-### **3️⃣ Create a \`.env\` file in the project root**
+### **Create a \`.env\` file in the project root**
 ```env
 VITE_apiKey=AIzaSyCriFE0EUdRwHzeYin4gAaiFay6EsB29KA
 VITE_authDomain=assignment-10-firebase-522b0.firebaseapp.com
