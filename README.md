@@ -114,7 +114,7 @@ npm install
 ```bash
 npm run dev
 ```
-### **Create a \`.env\` file in the project root**
+### **Create a .env file in the project root**
 ```env
 VITE_apiKey=AIzaSyCriFE0EUdRwHzeYin4gAaiFay6EsB29KA
 VITE_authDomain=assignment-10-firebase-522b0.firebaseapp.com
