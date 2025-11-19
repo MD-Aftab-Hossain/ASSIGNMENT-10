@@ -122,4 +122,5 @@ VITE_authDomain=assignment-10-firebase-522b0.firebaseapp.com
 VITE_projectId=assignment-10-firebase-522b0
 VITE_storageBucket=assignment-10-firebase-522b0.firebasestorage.app
 VITE_messagingSenderId=312466795541
-VITE_appId=1:312466795541:web:2326c3ead2a5ae4cf1f21c```
+VITE_appId=1:312466795541:web:2326c3ead2a5ae4cf1f21c
+```
