@@ -107,10 +107,13 @@ Follow the steps below to run the project on your local machine.
 ### **Clone the repo and install dependencies:**
 ```bash
 git clone https://github.com/MD-Aftab-Hossain/ASSIGNMENT-10.git
-cd artify
+cd ASSIGNMENT-10
 npm install
 ```
-
+### Start Development Server
+```bash
+npm run dev
+```
 ### **Create a \`.env\` file in the project root**
 ```env
 VITE_apiKey=AIzaSyCriFE0EUdRwHzeYin4gAaiFay6EsB29KA
