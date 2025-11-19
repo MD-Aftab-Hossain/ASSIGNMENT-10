@@ -1,13 +1,5 @@
-#!/usr/bin/env bash
 
-# Use: save this file as make_readme.sh, give execute permission (chmod +x make_readme.sh)
-# then run: ./make_readme.sh
-# It will create (or overwrite) README.md in the current directory.
-
-cat > README.md <<'README'
 # **ARTIFY – A Creative Artwork Showcase Platform**
-
-![Artify Banner](/mnt/data/57e791db-e3e5-45f3-874b-3ab38b6b1c92.png)
 
 Artify is a modern, responsive, and feature-rich artwork-sharing platform where artists can upload their creative works, explore galleries, appreciate artworks, and connect through creativity.  
 The platform maintains a clean UI, smooth UX, and efficient CRUD operations using React, Firebase Authentication, and MongoDB.
